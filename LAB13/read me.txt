@@ -1,0 +1,4 @@
+I have included the file main.cpp,and lab13.ipynb. lav13.ipynb hava code for generating the plots and also contain the python script forlab 13.
+I am also including the file use to generate the plots.
+FE_H1,FE_H2,FE_H3,FE_H4 are used to plot the figures for first problem.
+FE_2,BE_2,CNLF method are used to generate plot for second problem.

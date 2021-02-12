@@ -1,0 +1,1 @@
+First Run the c++ code, which generates "result.txt" which has been used in python script for plotting.

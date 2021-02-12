@@ -1,0 +1,2 @@
+main.cpp contains the main code for program, and lab5_pankaj_chouhan.ipynb is the jupyter notebook for plotting the graphs and calculating Convergence
+I have included 6 files used in notebook, 3 for pressure and 3 for residual.
